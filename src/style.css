@@ -56,3 +56,7 @@ body {
 .location {
   text-align: center;
 }
+.name {
+  margin-left: 15%;
+  font-size: smaller;
+}
